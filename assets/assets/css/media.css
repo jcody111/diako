@@ -1,0 +1,480 @@
+@media (max-width:239.99px) {
+    /* courses */
+    .courses-holder {
+        flex-wrap: wrap;
+    }
+    /* courses */
+    /* contact us */
+    .contact-us img {
+        display: none;
+    }
+    .tell-us {
+        display: none;
+    }
+    .info-card {
+        transform: translate(0rem, 0%) !important;
+        -webkit-transform: translate(0rem, 0%) !important;
+        -moz-transform: translate(0rem, 0%) !important;
+        -ms-transform: translate(0rem, 0%) !important;
+        -o-transform: translate(0rem, 0%) !important;
+    }
+    .contact-call {
+        padding: 0 5px !important;
+    }
+    /* contact us */
+    /* contact us and informations */
+    .informations {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap !important;
+        position: relative;
+        z-index: 50;
+    }
+
+
+    
+    /* contact us and informations */
+}
+
+@media (min-width:240px) and (max-width:319.99px) {
+    .pdf-links {
+        flex-wrap: wrap !important;
+          }
+          #adult-btn {
+              margin-top: 15px;
+          }
+          .pdf-links button {
+            padding: 5px 5px;
+            border-radius: 4px;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            -ms-border-radius: 4px;
+            -o-border-radius: 4px;
+}
+    body{
+        overflow-x: hidden;
+      }
+    .placement-test .bg {
+        padding: 0px !important;
+        overflow: hidden;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        object-fit: cover;
+      }
+
+      .placement-test .title {
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+      }
+
+      .placement-test .btn {
+        width: 100px;
+        height: 37px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+     
+      }
+     .pdf-btn {
+        left: 30px;
+      }
+       
+    /* video  */
+    .description {
+        display: none;
+    }
+    /* video  */
+    /* carousel */
+    .owl-carousel .owl-prev {
+        top: 30%;
+        left: -21px;
+    }
+    .owl-carousel .owl-next {
+        right: -21px;
+        top: 30%;
+
+    }
+   
+    /* carousel */
+    /* courses */
+    .main-course {
+        margin-bottom: 5rem !important;
+    }
+    .courses-holder {
+        margin-bottom: 10rem !important;
+    }
+    .coursess {
+        margin: 30px 0;
+    }
+    /* courses */
+    /* contact us */
+    .contact-us-mb {
+        margin: 5rem 0 35rem 0 !important;
+    }
+    /* contact us */
+    /* contact us and informations */
+    .informations {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap !important;
+        position: relative;
+        z-index: 50;
+    }
+    /* contact us and informations */
+}
+
+@media (max-width:319.99px) {
+    /* courses */
+    .courses-holder {
+        flex-wrap: wrap;
+    }
+    /* courses */
+    /* contact us */
+    .contact-us img {
+        display: none;
+    }
+    .tell-us {
+        display: none;
+    }
+    .info-card {
+        transform: translate(0rem, 0%) !important;
+        -webkit-transform: translate(0rem, 0%) !important;
+        -moz-transform: translate(0rem, 0%) !important;
+        -ms-transform: translate(0rem, 0%) !important;
+        -o-transform: translate(0rem, 0%) !important;
+    }
+    .contact-call {
+        padding: 0 10px !important;
+    }
+    /* contact us */
+    /* footer */
+    .social-media {
+        flex-wrap: wrap;
+        padding-top: 2px;
+    }
+    .social-media a {
+        padding: 4px 5px;
+    }
+    .copy-right {
+        height: 95px;
+        padding: 10px 0px;
+    }
+    .diako-rights {
+        font-size: 8px;
+    }
+    /* footer */
+}
+
+@media (min-width:320px) and (max-width:575.99px) {
+    .pdf-links {
+        flex-wrap: wrap !important;
+          }
+         
+    body{
+        overflow-x: hidden;
+      }
+    .placement-test .bg {
+        padding: 0px !important;
+        overflow: hidden;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        object-fit: cover;
+      }
+
+      .placement-test .title {
+        font-weight: bold;
+        font-size: 15px;
+        text-align: center;
+      }
+
+      .placement-test .btn {
+        width: 100px;
+        height: 37px;
+        margin-bottom: 10px;
+        margin-left: 10px;
+     
+      }
+     .pdf-btn {
+        left: 20px;
+      } 
+    /* video  */
+    .description {
+        display: none;
+    }
+    /* video  */
+    /* carousel */
+    .owl-carousel .owl-prev {
+        top: 42%;
+        left: -21px;
+    }
+    .owl-carousel .owl-next {
+        top: 42%;
+        right: -21px;
+    }
+    /* carousel */
+    /* courses */
+    .main-course {
+        margin-bottom: 5rem !important;
+    }
+    .courses-holder {
+        flex-wrap: wrap;
+    }
+    .courses-holder {
+        margin-bottom: 10rem !important;
+    }
+    .coursess {
+        margin: 30px 0;
+    }
+    /* courses */
+    /* contact us */
+    .contact-us-mb {
+        margin: 5rem 0 35rem 0 !important;
+    }
+    .contact-us img {
+        display: none;
+    }
+    .tell-us {
+        display: none;
+    }
+    .info-card {
+        transform: translate(0rem, 0%) !important;
+        -webkit-transform: translate(0rem, 0%) !important;
+        -moz-transform: translate(0rem, 0%) !important;
+        -ms-transform: translate(0rem, 0%) !important;
+        -o-transform: translate(0rem, 0%) !important;
+    }
+    .contact-call {
+        padding: 0 45px !important;
+    }
+    /* contact us */
+    /* contact us and informations */
+    .informations {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap !important;
+        position: relative;
+        z-index: 50;
+    }
+    /* contact us and informations */
+    /* footer */
+    .copy-right {
+        padding: 12px 2px;
+    }
+    .diako-rights {
+        font-size: 9px;
+    }
+    /* footer */
+}
+
+@media (min-width: 576px) and (max-width:767.99px) {
+    body{
+        overflow-x: hidden;
+      }
+
+     .pdf-btn {
+        left: 20px;
+      } 
+    /* carousel */
+    .owl-carousel .owl-prev {
+        top: 45%;
+        left: -40px;
+    }
+    .owl-carousel .owl-next {
+        top: 45%;
+        right: -40px;
+    }
+    /* carousel */
+    /* courses */
+    .course-box {
+        max-height: 210px !important;
+        margin: 0px 16px !important;
+    }
+    .main-course {
+        margin-bottom: 5rem !important;
+    }
+    .courses-holder {
+        flex-wrap: wrap;
+    }
+    .courses-holder {
+        margin-bottom: 10rem !important;
+    }
+    .coursess {
+        margin: 30px 0;
+    }
+    .tell-us {
+        display: none;
+    }
+    /* courses */
+    /* contact us */
+    .contact-us-mb {
+        margin: 15rem 0 30rem 0 !important;
+    }
+    .info-card {
+        transform: translate(0rem, -20%) !important;
+        -webkit-transform: translate(0rem, -20%) !important;
+        -moz-transform: translate(0rem, -20%) !important;
+        -ms-transform: translate(0rem, -20%) !important;
+        -o-transform: translate(0rem, -20%) !important;
+    }
+    .contact-call {
+        padding: 0 45px !important;
+    }
+    /* contact us */
+    /* contact us and informations */
+    .informations {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap !important;
+        position: relative;
+        z-index: 50;
+    }
+    /* contact us and informations */
+}
+
+@media (min-width:768px) and (max-width:991.99px) {
+    body{
+        overflow-x: hidden;
+      }
+     .pdf-btn {
+        left: 20px;
+      } 
+    /* carousel */
+    .owl-carousel .owl-prev {
+        top: 42%;
+        left: -21px;
+    }
+    .owl-carousel .owl-next {
+        top: 42%;
+        right: -21px;
+    }
+    /* carousel */
+    /* courses */
+    .contact-us-mb {
+        margin: 10rem 0 20rem 0 !important;
+    }
+    .main-course {
+        margin-bottom: 5rem !important;
+    }
+    .courses-holder {
+        flex-wrap: wrap;
+    }
+    .courses-holder {
+        margin-bottom: 10rem !important;
+    }
+    .coursess {
+        margin: 30px 0;
+    }
+    /* courses */
+    /* contact us  */
+    .info-card {
+        transform: translate(-5rem, -25%) !important;
+        -webkit-transform: translate(-5rem, -25%) !important;
+        -moz-transform: translate(-5rem, -25%) !important;
+        -ms-transform: translate(-5rem, -25%) !important;
+        -o-transform: translate(-5rem, -25%) !important;
+    }
+    .tell-us {
+        padding: 0 50px;
+        top: 25%;
+    }
+    .contact-call {
+        padding: 0 45px !important;
+    }
+    /* contact us  */
+    /* contact us and informations */
+    .informations {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap !important;
+        position: relative;
+        z-index: 50;
+    }
+    /* contact us and informations */
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+  .pdf-btn {
+        left: 20px;
+      } 
+    /* courses */
+    .courses-holder {
+        flex-wrap: wrap;
+    }
+    .coursess {
+        margin: 30px 0;
+    }
+    .courses-holder {
+        margin-bottom: 10rem !important;
+    }
+    .tell-us {
+        top: 35%;
+    }
+    /* courses */
+    /* contact us and informations */
+    .informations {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap !important;
+        position: relative;
+        z-index: 50;
+    }
+    /* contact us and informations */
+    .owl-carousel .owl-prev {
+        top: 42%;
+        left: -23px;
+    }
+    .owl-carousel .owl-next {
+        top: 42%;
+        right: -23px;
+    }
+}
+
+
+/* header */
+@media(max-width:319.99px) {
+    .caption-fa {
+        font-size: 20px !important;
+    }
+    .header-bg img {
+        height: 95vh;
+        object-fit: cover;
+    }
+}
+
+@media(min-width:320px) and (max-width:479.99px) {
+    .header-bg img {
+        height: 95vh;
+        object-fit: cover;
+    }
+}
+
+@media (min-width:480px) and (max-width:575.99px) {
+    .header-bg img {
+        height: 95vh;
+        object-fit: cover;
+    }
+}
+
+@media (min-width:576px) and (max-width:767.99px) {
+    .header-bg img {
+        height: 95vh;
+        object-fit: cover;
+    }
+}
+
+@media (min-width:768px) and (max-width:991.99px) {
+    .header-bg img {
+        height: 95vh;
+        object-fit: cover;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199.99px) {
+    .header-bg img {
+        height: 95vh;
+        object-fit: cover;
+    }
+}
+/* header */
